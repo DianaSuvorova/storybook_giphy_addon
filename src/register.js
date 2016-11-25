@@ -1,6 +1,6 @@
 import React from 'react';
 import addons from '@kadira/storybook-addons';
-import Panel from './src/panel';
+import Panel from './panel';
 
 
 // Register the addon with a unique name.
