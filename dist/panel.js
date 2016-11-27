@@ -43,8 +43,8 @@ var styles = {
     width: '100%',
     overflow: 'auto',
     display: 'flex',
-    'align-items': 'center',
-    'justify-content': 'center'
+    alignItems: 'center',
+    justifyContent: 'center'
   }
 };
 
